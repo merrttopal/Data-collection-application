@@ -1,5 +1,5 @@
 
-# XML Reader: A rest project that reads xml files and creates a service using Rest-Api,jpa and jsoup
+# XML Reader: A rest project that reads xml files and creates a service using Rest-Api, jpa and jsoup
 
 
 ## Features
