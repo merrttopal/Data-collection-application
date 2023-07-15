@@ -1,5 +1,5 @@
 
-# XML Reader: A rest project that reads xml files and creates a service using Rest-Api, jpa and jsoup
+# Data collection application, this application collects data from some specific sites and turns this data into a Rest service. Certain users are authorized to use this data and need a login. An application that takes Mozart music from one site and exchange rates from another xml service and turns it into a Rest service.
 
 
 ## Features
@@ -23,3 +23,7 @@ Follow these steps to install XML Reader:
 ## Usage
 
 In the Postman folder you can find the GET and POST requests needed to test the services offered by the project.
+
+ ## Technologies
+
+ - Java 8, Spring Boot, Spring Rest, Jsoup, Maven
